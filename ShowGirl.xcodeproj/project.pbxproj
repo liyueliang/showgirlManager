@@ -70,6 +70,11 @@
 		2483A0101B4B636F005B4248 /* 01.png in Resources */ = {isa = PBXBuildFile; fileRef = 2483A00D1B4B636F005B4248 /* 01.png */; };
 		2483A0111B4B636F005B4248 /* 02.png in Resources */ = {isa = PBXBuildFile; fileRef = 2483A00E1B4B636F005B4248 /* 02.png */; };
 		2483A0131B4B7854005B4248 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 2483A0121B4B7854005B4248 /* icon.png */; };
+		24AED2BE1B4CF7E700EDA872 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24AED2B91B4CF7E700EDA872 /* Default-568h@2x.png */; };
+		24AED2BF1B4CF7E700EDA872 /* Default-667h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24AED2BA1B4CF7E700EDA872 /* Default-667h@2x.png */; };
+		24AED2C01B4CF7E700EDA872 /* Default-736h@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24AED2BB1B4CF7E700EDA872 /* Default-736h@3x.png */; };
+		24AED2C11B4CF7E700EDA872 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 24AED2BC1B4CF7E700EDA872 /* Default.png */; };
+		24AED2C21B4CF7E700EDA872 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24AED2BD1B4CF7E700EDA872 /* Default@2x.png */; };
 		24BB83881B47D90300DAB735 /* YLImgCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 24BB83871B47D90300DAB735 /* YLImgCell.m */; };
 		24D1AA9E1B47C80300FC435D /* YLShowGirlViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24D1AA9D1B47C80300FC435D /* YLShowGirlViewController.m */; };
 		24D1AAE11B47D10600FC435D /* girlData.plist in Resources */ = {isa = PBXBuildFile; fileRef = 24D1AAE01B47D10500FC435D /* girlData.plist */; };
@@ -87,7 +92,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		243E43591B47C26B00FFD2B2 /* ShowGirl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShowGirl.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		243E43591B47C26B00FFD2B2 /* 撕衣服.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "撕衣服.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		243E435D1B47C26B00FFD2B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		243E435E1B47C26B00FFD2B2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		243E43601B47C26B00FFD2B2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -164,6 +169,11 @@
 		2483A00D1B4B636F005B4248 /* 01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 01.png; sourceTree = "<group>"; };
 		2483A00E1B4B636F005B4248 /* 02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 02.png; sourceTree = "<group>"; };
 		2483A0121B4B7854005B4248 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		24AED2B91B4CF7E700EDA872 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		24AED2BA1B4CF7E700EDA872 /* Default-667h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-667h@2x.png"; sourceTree = "<group>"; };
+		24AED2BB1B4CF7E700EDA872 /* Default-736h@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-736h@3x.png"; sourceTree = "<group>"; };
+		24AED2BC1B4CF7E700EDA872 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		24AED2BD1B4CF7E700EDA872 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		24BB83861B47D90300DAB735 /* YLImgCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLImgCell.h; sourceTree = "<group>"; };
 		24BB83871B47D90300DAB735 /* YLImgCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLImgCell.m; sourceTree = "<group>"; };
 		24D1AA9C1B47C80300FC435D /* YLShowGirlViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLShowGirlViewController.h; sourceTree = "<group>"; };
@@ -221,7 +231,7 @@
 		243E435A1B47C26B00FFD2B2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				243E43591B47C26B00FFD2B2 /* ShowGirl.app */,
+				243E43591B47C26B00FFD2B2 /* 撕衣服.app */,
 				243E436C1B47C26B00FFD2B2 /* ShowGirlTests.xctest */,
 			);
 			name = Products;
@@ -230,6 +240,11 @@
 		243E435B1B47C26B00FFD2B2 /* ShowGirl */ = {
 			isa = PBXGroup;
 			children = (
+				24AED2B91B4CF7E700EDA872 /* Default-568h@2x.png */,
+				24AED2BA1B4CF7E700EDA872 /* Default-667h@2x.png */,
+				24AED2BB1B4CF7E700EDA872 /* Default-736h@3x.png */,
+				24AED2BC1B4CF7E700EDA872 /* Default.png */,
+				24AED2BD1B4CF7E700EDA872 /* Default@2x.png */,
 				24D1AA971B47C7E200FC435D /* class */,
 				243E43601B47C26B00FFD2B2 /* AppDelegate.h */,
 				243E43611B47C26B00FFD2B2 /* AppDelegate.m */,
@@ -428,7 +443,7 @@
 			);
 			name = ShowGirl;
 			productName = ShowGirl;
-			productReference = 243E43591B47C26B00FFD2B2 /* ShowGirl.app */;
+			productReference = 243E43591B47C26B00FFD2B2 /* 撕衣服.app */;
 			productType = "com.apple.product-type.application";
 		};
 		243E436B1B47C26B00FFD2B2 /* ShowGirlTests */ = {
@@ -498,6 +513,7 @@
 				24839FEA1B4B6014005B4248 /* a7.jpg in Resources */,
 				2483A0011B4B6014005B4248 /* b911.jpg in Resources */,
 				24839FF41B4B6014005B4248 /* a917.png in Resources */,
+				24AED2C11B4CF7E700EDA872 /* Default.png in Resources */,
 				24839FE71B4B6014005B4248 /* a4.jpg in Resources */,
 				24839FED1B4B6014005B4248 /* a910.jpg in Resources */,
 				24839FFA1B4B6014005B4248 /* b4.jpg in Resources */,
@@ -510,6 +526,7 @@
 				24839FF11B4B6014005B4248 /* a914.jpg in Resources */,
 				243E43671B47C26B00FFD2B2 /* LaunchScreen.xib in Resources */,
 				24839FFD1B4B6014005B4248 /* b7.jpg in Resources */,
+				24AED2BF1B4CF7E700EDA872 /* Default-667h@2x.png in Resources */,
 				2483A00F1B4B636F005B4248 /* 03.png in Resources */,
 				24839FF01B4B6014005B4248 /* a913.jpg in Resources */,
 				2483A0131B4B7854005B4248 /* icon.png in Resources */,
@@ -517,11 +534,14 @@
 				24839FEB1B4B6014005B4248 /* a8.jpg in Resources */,
 				24839FFE1B4B6014005B4248 /* b8.jpg in Resources */,
 				2483A0111B4B636F005B4248 /* 02.png in Resources */,
+				24AED2BE1B4CF7E700EDA872 /* Default-568h@2x.png in Resources */,
 				24839FEE1B4B6014005B4248 /* a911.jpg in Resources */,
+				24AED2C01B4CF7E700EDA872 /* Default-736h@3x.png in Resources */,
 				244040B21B48550800217C9C /* YLImgCell.xib in Resources */,
 				24839FF51B4B6014005B4248 /* a918.png in Resources */,
 				24839FE61B4B6014005B4248 /* a3.jpg in Resources */,
 				2483A0021B4B6014005B4248 /* b912.jpg in Resources */,
+				24AED2C21B4CF7E700EDA872 /* Default@2x.png in Resources */,
 				2483A0031B4B6014005B4248 /* b913.jpg in Resources */,
 				24839FF21B4B6014005B4248 /* a915.png in Resources */,
 				24839FE81B4B6014005B4248 /* a5.jpg in Resources */,
@@ -677,7 +697,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: JIA LEI TAO (62NXK8CCZ5)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Henan Junhe Investment Co., Ltd.";
 				GCC_PREFIX_HEADER = "$(SRCROOT)//ShowGirl/PrefixHeader.pch";
 				INFOPLIST_FILE = ShowGirl/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
@@ -692,8 +712,8 @@
 					"-lstdc++",
 					"-ObjC",
 				);
-				PRODUCT_NAME = ShowGirl;
-				PROVISIONING_PROFILE = "edd009ce-935c-4da9-b011-603dad5740a7";
+				PRODUCT_NAME = "撕衣服";
+				PROVISIONING_PROFILE = "8070e03f-d0f0-4d8f-bd1f-f3406ec1f97d";
 			};
 			name = Debug;
 		};
@@ -701,7 +721,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: JIA LEI TAO (62NXK8CCZ5)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Henan Junhe Investment Co., Ltd.";
 				GCC_PREFIX_HEADER = "$(SRCROOT)//ShowGirl/PrefixHeader.pch";
 				INFOPLIST_FILE = ShowGirl/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
@@ -716,8 +736,8 @@
 					"-lstdc++",
 					"-ObjC",
 				);
-				PRODUCT_NAME = ShowGirl;
-				PROVISIONING_PROFILE = "edd009ce-935c-4da9-b011-603dad5740a7";
+				PRODUCT_NAME = "撕衣服";
+				PROVISIONING_PROFILE = "8070e03f-d0f0-4d8f-bd1f-f3406ec1f97d";
 			};
 			name = Release;
 		};
