@@ -712,7 +712,7 @@
 					"-lstdc++",
 					"-ObjC",
 				);
-				PRODUCT_NAME = "撕衣服";
+				PRODUCT_NAME = ShowGirl;
 				PROVISIONING_PROFILE = "8070e03f-d0f0-4d8f-bd1f-f3406ec1f97d";
 			};
 			name = Debug;
@@ -736,7 +736,7 @@
 					"-lstdc++",
 					"-ObjC",
 				);
-				PRODUCT_NAME = "撕衣服";
+				PRODUCT_NAME = ShowGirl;
 				PROVISIONING_PROFILE = "8070e03f-d0f0-4d8f-bd1f-f3406ec1f97d";
 			};
 			name = Release;
