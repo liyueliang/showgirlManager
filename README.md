@@ -1,9 +1,6 @@
-### ![github](https://github.com/liyueliang/showgirlManager/blob/master/ShowGirl/01.png?raw=true
-)  
-### ![github](https://github.com/liyueliang/showgirlManager/blob/master/ShowGirl/02.png?raw=true
-)  
-### ![github](https://github.com/liyueliang/showgirlManager/blob/master/ShowGirl/03.png?raw=true
-)  
+### ![github](https://github.com/liyueliang/showgirlManager/blob/master/ShowGirl/01.png?raw=true)  
+### ![github](https://github.com/liyueliang/showgirlManager/blob/master/ShowGirl/02.png?raw=true)  
+### ![github](https://github.com/liyueliang/showgirlManager/blob/master/ShowGirl/03.png?raw=true)  
 [点击连接安装 http://www.pgyer.com/6m08]
 # 备注说明
  * 本程序仅用于学习使用,请勿商业使用
